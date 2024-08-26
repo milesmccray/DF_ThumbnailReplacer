@@ -1,2 +1,2 @@
 # DF_ThumbnailReplacer
-Replaces the level thumbnail of a Dustforce LEvel
+Replaces the level thumbnail of a Dustforce Level
